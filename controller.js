@@ -43,7 +43,6 @@ exports.tambahMahasiswa = function (req, res) {
                 console.log(error);
             } else {
                 response.ok("Berhasil Menambahkan Data!", res)
-                console.log("Berhasil")
             }
         });
 };
