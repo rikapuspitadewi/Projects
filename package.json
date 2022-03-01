@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/rikapuspitadewi/Projects/issues"
   },
-  "homepage": "https://github.com/rikapuspitadewi/Projects#readme"
+  "homepage": "https://github.com/rikapuspitadewi/Projects#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
